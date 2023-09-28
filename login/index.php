@@ -80,7 +80,7 @@ unset($_SESSION['bldgpermitAdmin']);
 
             <div class="row">
               <div class="col-md-12">
-                <center>Don't have an account?<a href="../signup"> Sign Up</a></center>
+                <center>Don't have an account?aaaaaa<a href="../signup"> Sign Up</a></center>
                 <!-- <center><a href="../forgot"> Forgot Password?</a></center> -->
                 <center>
                   <a href="#" class="text-primary" data-toggle="modal" data-target="#trackApplication" data-backdrop="static">
